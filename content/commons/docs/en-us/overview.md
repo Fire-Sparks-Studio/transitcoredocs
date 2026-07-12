@@ -17,7 +17,7 @@ Addons provide the content.
 
 This architecture allows developers to create completely independent addons without modifying TransitCore itself.
 
----
+
 
 ## Philosophy
 
@@ -37,7 +37,7 @@ The framework includes systems for:
 - Animations
 - Multiplayer synchronization
 
----
+
 
 ### Modularity
 
@@ -49,7 +49,7 @@ Vehicles, tracks, stations, sounds, textures, signaling systems and countries ar
 
 Developers are free to create their own content without changing the engine.
 
----
+
 
 ### Performance
 
@@ -59,7 +59,7 @@ TransitCore is designed to efficiently simulate large railway networks while min
 
 The engine uses optimized rendering, caching and event-driven systems whenever possible.
 
----
+
 
 ### Extensibility
 
@@ -67,7 +67,7 @@ TransitCore exposes a complete scripting API called **LuaTC**.
 
 LuaTC allows addon developers to create new vehicles, railway systems and gameplay features without interacting directly with the Java engine.
 
----
+
 
 ## Architecture
 
@@ -91,7 +91,7 @@ TransitCore
 
 Every system communicates through a stable public API.
 
----
+
 
 ## What is LuaTC?
 
@@ -110,7 +110,7 @@ train:setMaximumSpeed(320)
 
 LuaTC focuses on describing behaviour while the Java engine handles rendering, networking, animations and physics.
 
----
+
 
 ## Addons
 
@@ -131,7 +131,7 @@ Each addon is isolated and loaded independently by the TransitCore Addon Loader.
 
 A faulty addon will never prevent TransitCore or other addons from loading.
 
----
+
 
 ## Why TransitCore?
 
@@ -150,7 +150,7 @@ It provides:
 - Extensive documentation
 - Long-term API stability
 
----
+
 
 ## Documentation
 
@@ -172,7 +172,7 @@ Complete reference for every LuaTC class, service, method and event.
 
 Ready-to-use sample addons demonstrating best practices.
 
----
+
 
 # Next Steps
 
