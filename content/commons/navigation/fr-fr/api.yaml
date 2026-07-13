@@ -1,7 +1,7 @@
 navigation:
-  - heading: API Reference
+  - heading: Référence API
 
-  - title: Overview
+  - title: Vue d'ensemble
     path: /api/overview
 
   - title: Services
@@ -43,8 +43,8 @@ navigation:
   - title: Classes
     path: /api/classes
 
-  - title: Enums
+  - title: Énumérations
     path: /api/enums
 
-  - title: Events
+  - title: Événements
     path: /api/events

@@ -1,10 +1,10 @@
 navigation:
-  - heading: Release Notes
+  - heading: Notes de version
 
   - title: Alpha
     path: /release-notes/alpha
 
-  - title: Beta
+  - title: Bêta
     path: /release-notes/beta
 
   - title: Stable

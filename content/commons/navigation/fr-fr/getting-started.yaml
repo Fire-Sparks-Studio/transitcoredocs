@@ -1,29 +1,29 @@
 navigation:
-  - heading: Getting Started
+  - heading: Premiers pas
 
-  - title: Overview
+  - title: Vue d'ensemble
     path: /getting-started/overview
 
   - title: Installation
     path: /getting-started/installation
 
-  - title: Project Structure
+  - title: Structure du projet
     path: /getting-started/project-structure
 
-  - title: Folder Structure
+  - title: Structure des dossiers
     path: /getting-started/folder-structure
 
-  - title: Your First Addon
+  - title: Créer son premier addon
     path: /getting-started/first-addon
 
-  - title: Addon Manifest
+  - title: Manifeste d'un addon
     path: /getting-started/addon-manifest
 
-  - title: LuaTC Basics
+  - title: Les bases de LuaTC
     path: /getting-started/luatc-basics
 
-  - title: Running Your Addon
+  - title: Lancer un addon
     path: /getting-started/running-your-addon
 
-  - title: Debugging
+  - title: Débogage
     path: /getting-started/debugging

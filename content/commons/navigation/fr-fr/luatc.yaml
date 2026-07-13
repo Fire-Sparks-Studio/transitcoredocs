@@ -1,10 +1,10 @@
 navigation:
   - heading: LuaTC
 
-  - title: Overview
+  - title: Vue d'ensemble
     path: /luatc/overview
 
-  - title: Language
+  - title: Langage
     section:
       - title: Variables
         path: /luatc/language/variables
@@ -12,13 +12,13 @@ navigation:
       - title: Types
         path: /luatc/language/types
 
-      - title: Functions
+      - title: Fonctions
         path: /luatc/language/functions
 
       - title: Modules
         path: /luatc/language/modules
 
-      - title: Events
+      - title: Événements
         path: /luatc/language/events
 
       - title: Coroutines
@@ -27,22 +27,22 @@ navigation:
       - title: Annotations
         path: /luatc/language/annotations
 
-  - title: Runtime
+  - title: Exécution
     section:
       - title: Services
         path: /luatc/runtime/services
 
-      - title: Nodes
+      - title: Nœuds
         path: /luatc/runtime/nodes
 
-      - title: Components
+      - title: Composants
         path: /luatc/runtime/components
 
-      - title: Assets
+      - title: Ressources
         path: /luatc/runtime/assets
 
       - title: Addons
         path: /luatc/runtime/addons
 
-  - title: Best Practices
+  - title: Bonnes pratiques
     path: /luatc/best-practices

@@ -1,19 +1,19 @@
 navigation:
   - heading: Guides
 
-  - title: Vehicles
+  - title: Véhicules
     section:
 
-      - title: Creating a Vehicle
+      - title: Créer un véhicule
         path: /guides/vehicles/create
 
-      - title: Vehicle Structure
+      - title: Structure d'un véhicule
         path: /guides/vehicles/structure
 
-      - title: Cab Controls
+      - title: Poste de conduite
         path: /guides/vehicles/cab-controls
 
-      - title: Doors
+      - title: Portes
         path: /guides/vehicles/doors
 
       - title: Bogies
@@ -22,83 +22,83 @@ navigation:
       - title: Animations
         path: /guides/vehicles/animations
 
-      - title: Sounds
+      - title: Sons
         path: /guides/vehicles/sounds
 
-      - title: Physics
+      - title: Physique
         path: /guides/vehicles/physics
 
-  - title: Railway
+  - title: Infrastructure ferroviaire
     section:
 
-      - title: Tracks
+      - title: Voies
         path: /guides/railway/tracks
 
-      - title: Nodes
+      - title: Nœuds
         path: /guides/railway/nodes
 
-      - title: Curves
+      - title: Courbes
         path: /guides/railway/curves
 
-      - title: Switches
+      - title: Aiguillages
         path: /guides/railway/switches
 
-      - title: Speed Limits
+      - title: Limitations de vitesse
         path: /guides/railway/speed-limits
 
-      - title: Buffer Stops
+      - title: Butoirs
         path: /guides/railway/buffer-stops
 
-  - title: Signaling
+  - title: Signalisation
     section:
 
-      - title: Overview
+      - title: Vue d'ensemble
         path: /guides/signaling/overview
 
-      - title: Signal Aspects
+      - title: Aspects des signaux
         path: /guides/signaling/aspects
 
-      - title: Detection Sections
+      - title: Sections de détection
         path: /guides/signaling/detection
 
-      - title: Automatic Signals
+      - title: Signaux automatiques
         path: /guides/signaling/automatic
 
-      - title: Interlocking
+      - title: Enclenchements
         path: /guides/signaling/interlocking
 
-      - title: Route Locking
+      - title: Verrouillage des itinéraires
         path: /guides/signaling/routes
 
       - title: TCO
         path: /guides/signaling/tco
 
-  - title: Electrification
+  - title: Électrification
     section:
 
-      - title: Overhead Catenary
+      - title: Caténaires
         path: /guides/electrification/catenary
 
-      - title: Third Rail
+      - title: Troisième rail
         path: /guides/electrification/third-rail
 
-      - title: Ground Power
+      - title: Alimentation par le sol
         path: /guides/electrification/ground-power
 
-      - title: Isolators
+      - title: Sectionnements
         path: /guides/electrification/isolators
 
-  - title: Stations
+  - title: Gares
     section:
 
-      - title: Overview
+      - title: Vue d'ensemble
         path: /guides/stations/overview
 
-      - title: Platforms
+      - title: Quais
         path: /guides/stations/platforms
 
-      - title: Passenger Information
+      - title: Information voyageurs
         path: /guides/stations/passenger-information
 
-      - title: Platform Doors
+      - title: Portes palières
         path: /guides/stations/platform-doors

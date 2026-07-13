@@ -1,23 +1,23 @@
 navigation:
-  - heading: Examples
+  - heading: Exemples
 
   - title: Hello World
     path: /examples/hello-world
 
-  - title: Basic Vehicle
+  - title: Véhicule simple
     path: /examples/basic-vehicle
 
-  - title: Basic Track
+  - title: Voie simple
     path: /examples/basic-track
 
-  - title: Basic Signal
+  - title: Signal simple
     path: /examples/basic-signal
 
-  - title: Basic Station
+  - title: Gare simple
     path: /examples/basic-station
 
-  - title: Basic Animation
+  - title: Animation simple
     path: /examples/basic-animation
 
-  - title: Interactive Component
+  - title: Composant interactif
     path: /examples/interactive-component
