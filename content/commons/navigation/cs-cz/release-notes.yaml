@@ -1,0 +1,12 @@
+# release-notes.yaml
+navigation:
+  - heading: Poznámky k vydání
+
+  - title: Alpha
+    path: /release-notes/alpha
+
+  - title: Beta
+    path: /release-notes/beta
+
+  - title: Stabilní verze
+    path: /release-notes/stable
